@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TestGitAppFInal">
         <activity
+            android:name=".Hotel"
+            android:exported="true" />
+        <activity
             android:name=".nadun"
             android:exported="true" />
         <activity
