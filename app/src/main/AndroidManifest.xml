@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TestGitAppFInal">
         <activity
+            android:name=".nadun"
+            android:exported="true" />
+        <activity
             android:name=".testShashika"
             android:exported="true" />
         <activity
